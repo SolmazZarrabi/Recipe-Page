@@ -1,0 +1,71 @@
+<!--
+  Feel
+  free
+  to
+  remove
+  these
+  styles
+  or
+  customise
+  in
+  your
+  own
+  stylesheet
+  👍
+  .attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  background-color: #f3e5d8;
+  font-family: "outfit";
+  color: rgb(97, 95, 95);
+  width: 1440px;
+}
+h1 {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  color: black;
+}
+h2 {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  color: hsl(14, 45%, 36%);
+}
+.container {
+  background-color: white;
+  width: 80%;
+  align-self: center;
+  margin: auto;
+  padding: 2%;
+  border-radius: 50px;
+  font-size: 16px;
+}
+img {
+  width: 100%;
+  border-radius: 20px;
+}
+.timing {
+  background-color: hsl(330, 100%, 98%);
+  padding: 20px;
+  border-radius: 10px;
+  line-height: 1.8;
+}
+.timing h3 {
+  color: hsl(332, 51%, 32%);
+}
+.timing ul li::marker {
+  color: hsl(332, 51%, 32%);
+}
+.ingredients ul li::marker {
+  color: hsl(14, 45%, 36%);
+}
+.instructions ol li::marker {
+color: hsl(14, 45%, 36%);
+font-weight: 700;
+line-height: 3.8;
+}
